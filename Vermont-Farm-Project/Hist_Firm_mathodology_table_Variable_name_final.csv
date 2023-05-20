@@ -1,0 +1,52 @@
+rown,row number,2023 price,1860 price,1850 price
+Name,"Name of Owner, Agent, or Manager of the Farm",,,
+improved,Acres of Improved Land,17234,,
+unimproved,Acres of Unimproved Land,26300,,
+cash_val,Cash value of Farm,38.7,,
+machine_val,Value of Farming Implements and Machinery,38.7,,
+horse,Horses.,3000,59,44
+mules,Asses and Mules.,2000,59,44
+milkcow,Milch Cows.,2500,,
+oxen,Working Oxen.,3000,,
+cattle,Other Cattle.,2000,,
+sheep,Sheep.,400,,
+swine,Swine.,100,,
+livestock_val,Value of Live Stock.,38.7,,
+wheat,Bushels of Wheat.,7.25,1.495,1.275
+rye,Bushels of Rye.,5.2,0.77,0.7
+corn,Bushels of Indian Corn.,6.8,0.46,0.4
+oats,Bushels of Oats.,3.13,0.34,0.34
+rice,lbs. of Rice,1,0.0232,0.0182
+tobacco,lbs. of Tobacco,2.28,8.6,9.8
+cotton,"Ginned Cotton, bales of 400 lbs. each",38.7,0.11,0.123
+wool,lbs. of Wool.,38.7,1.025,0.833
+peas,Bushels of Peas and Beans,38.7,0.73,0.88
+potatos,Bushels of Irish Potatoes,38.7,0.37,0.37
+sweetpotatos,Bushels of Sweet Potatoes,38.7,0.48,0.48
+barley,Bushels of Barley,38.7,0.58,0.72
+buckwheat,Bush. Of Buckwheat,38.7,0.52,0.46
+orchid_val,"Value of Orchard Products, in doll's",38.7,,
+wine,gallons of Wine,38.7,2.12,2.75
+produce_val,Value of Produce of Market Gardens,38.7,,
+butter,lbs. of Butter,38.7,0.29,0.29
+cheese,lbs. of Cheese,38.7,,
+hay,tons of Hay,38.7,8.76,7.58
+clover,bushels of Clover Seed,38.7,,
+grass,bushels of Grass Seeds,38.7,,
+hops,lbs. of Hops,38.7,0.09,0.1
+hemp_dewrot,tons of Dew Rotted Hemp,38.7,67,90
+hemp_waterrot,tons of Water Rotted Hemp,38.7,67,90
+hemp_other,Other prepared Hemp,38.7,67,90
+flax,lbs. of Flax,38.7,0.057,0.06
+flaxseed,bush. Of Flaxseed,38.7,1.15,1.15
+silk,lbs. of Silk Cocoons,38.7,,
+maplesugar,lbs. of Maple Sugar,38.7,0.123,0.093
+canesugar,"lbs. of Cane Sugar, shds of 1000 lbs",38.7,0.151,0.09
+molasses,"Molasses, gallons of, and from what made",38.7,27.3,22.1
+beewax,lbs. of Beeswax,38.7,,
+honey,lbs. of Honey,38.7,,
+manufactures_val,Value of Homemade Manufactures,38.7,,
+animals_val,Value of Animals slaughtered,38.7,,
+pg_num,page number,0,,
+year,year,0,,
+town,town,0,,

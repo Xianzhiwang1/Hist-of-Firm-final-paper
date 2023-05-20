@@ -1,0 +1,52 @@
+,rown,row number,1860 price,1850 price
+0,Name,"Name of Owner, Agent, or Manager of the Farm",,
+1,improved,Acres of Improved Land,,
+2,unimproved,Acres of Unimproved Land,,
+3,cash_val,Cash value of Farm,,
+4,machine_val,Value of Farming Implements and Machinery,,
+5,horse,Horses.,59.0,44.0
+6,mules,Asses and Mules.,59.0,44.0
+7,milkcow,Milch Cows.,,
+8,oxen,Working Oxen.,,
+9,cattle,Other Cattle.,,
+10,sheep,Sheep.,,
+11,swine,Swine.,,
+12,livestock_val,Value of Live Stock.,,
+13,wheat,Bushels of Wheat.,1.495,1.275
+14,rye,Bushels of Rye.,0.77,0.7
+15,corn,Bushels of Indian Corn.,0.46,0.4
+16,oats,Bushels of Oats.,0.34,0.34
+17,rice,lbs. of Rice,0.0232,0.0182
+18,tobacco,lbs. of Tobacco,8.6,9.8
+19,cotton,"Ginned Cotton, bales of 400 lbs. each",0.11,0.123
+20,wool,lbs. of Wool.,1.025,0.833
+21,peas,Bushels of Peas and Beans,0.73,0.88
+22,potatos,Bushels of Irish Potatoes,0.37,0.37
+23,sweetpotatos,Bushels of Sweet Potatoes,0.48,0.48
+24,barley,Bushels of Barley,0.58,0.72
+25,buckwheat,Bush. Of Buckwheat,0.52,0.46
+26,orchid_val,"Value of Orchard Products, in doll's",,
+27,wine,gallons of Wine,2.12,2.75
+28,produce_val,Value of Produce of Market Gardens,,
+29,butter,lbs. of Butter,0.29,0.29
+30,cheese,lbs. of Cheese,,
+31,hay,tons of Hay,8.76,7.58
+32,clover,bushels of Clover Seed,,
+33,grass,bushels of Grass Seeds,,
+34,hops,lbs. of Hops,0.09,0.1
+35,hemp_dewrot,tons of Dew Rotted Hemp,67.0,90.0
+36,hemp_waterrot,tons of Water Rotted Hemp,67.0,90.0
+37,hemp_other,Other prepared Hemp,67.0,90.0
+38,flax,lbs. of Flax,0.057,0.06
+39,flaxseed,bush. Of Flaxseed,1.15,1.15
+40,silk,lbs. of Silk Cocoons,,
+41,maplesugar,lbs. of Maple Sugar,0.123,0.093
+42,canesugar,"lbs. of Cane Sugar, shds of 1000 lbs",0.151,0.09
+43,molasses,"Molasses, gallons of, and from what made",27.3,22.1
+44,beewax,lbs. of Beeswax,,
+45,honey,lbs. of Honey,,
+46,manufactures_val,Value of Homemade Manufactures,,
+47,animals_val,Value of Animals slaughtered,,
+48,pg_num,page number,,
+49,year,year,,
+50,town,town,,
